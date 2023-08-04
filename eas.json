@@ -1,0 +1,12 @@
+{
+    "build": {
+      "preview": {
+        "android": {
+          "buildType": "apk"
+          // Otras configuraciones específicas de Android que puedas necesitar
+        }
+      }
+      // Otros perfiles de construcción si es necesario
+    }
+  }
+  
